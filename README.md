@@ -9,7 +9,7 @@
 
 📚 Passionate about learning new technologies and improving continuously
 
-📁 My repositories include university projects and personal experiments
+📁 My repositories include some university projects and personal experiments
 
 🚀 Always open to challenges and opportunities to grow
 
